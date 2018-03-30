@@ -5,4 +5,6 @@ def display_rainbow(array)
         return color[index] == 0
       end
     end  
+    
+    initial_char
 end
